@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="cat_title">A cat with a collar that says cat on it</string>
+    <string name="cat_artist">SketchPedia</string>
+    <string name="tiger_title">A tiger in a leather jacket stands in the street in front of a neon sign</string>
+    <string name="dog_title">View of cute dog sleeping peacefully at home</string>
+    <string name="lion_title">\"Lion king with full armor and weapon generative \"</string>
+    <string name="lion_artist">Tohamina</string>
+    <string name="leopard_title">View of wild leopard in nature</string>
+    <string name="leopard_artist">FreePik</string>
+    <string name="dog_artist">VecStock</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
